@@ -26,11 +26,11 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home:Loginscreen(),
-      /* routes: {
+      routes: {
         '/login':(context)=>const Loginscreen(),
         '/signup':(context)=>const SignupScreen(),
         '/dashboard':(context)=>const DashboardScreen(),
-      }, */
+      },
     );
   }
 }

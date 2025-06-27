@@ -1,4 +1,4 @@
-/* import 'package:finsync_2/services/auth_services.dart';
+import 'package:finsync_2/services/auth_services.dart';
 import 'package:finsync_2/auth/login.dart';
 import 'package:finsync_2/widgets/customButton.dart';
 import 'package:finsync_2/widgets/inputfield.dart';
@@ -160,4 +160,4 @@ class _SignupScreenState extends State<SignupScreen> {
       ),
     );
   }
-} */
+}

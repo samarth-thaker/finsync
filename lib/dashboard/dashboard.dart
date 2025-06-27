@@ -1,4 +1,4 @@
-/* import 'package:finsync_2/dashboard/analytics.dart';
+import 'package:finsync_2/dashboard/analytics.dart';
 import 'package:finsync_2/dashboard/goals.dart';
 import 'package:finsync_2/dashboard/homePage.dart';
 import 'package:finsync_2/dashboard/settings.dart';
@@ -15,7 +15,7 @@ class DashboardScreen extends StatefulWidget {
 class _DashboardScreenState extends State<DashboardScreen> {
   int _selectedIndex = 0;
   static const List<Widget> _pages = <Widget>[
-    Homepage(),
+    //Homepage(),
     GoalsPage(),
     AnalyticsPage(),
     TransactionsPage(),
@@ -63,4 +63,3 @@ class _DashboardScreenState extends State<DashboardScreen> {
     );
   }
 }
- */
