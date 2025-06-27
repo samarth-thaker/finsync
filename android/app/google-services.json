@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "775658659207",
+    "project_id": "finsync-d80db",
+    "storage_bucket": "finsync-d80db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775658659207:android:67c5642ef52009435ac722",
+        "android_client_info": {
+          "package_name": "com.example.finsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9CAGaErtHIXYvwfqs6NSY7FLlfaAZ-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775658659207:android:ba1039752fa89e795ac722",
+        "android_client_info": {
+          "package_name": "com.example.finsync_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9CAGaErtHIXYvwfqs6NSY7FLlfaAZ-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
