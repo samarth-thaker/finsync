@@ -1,4 +1,4 @@
-/* 
+
 import 'package:finsync_2/provider/goal_provider.dart';
 import 'package:finsync_2/widgets/goalCard.dart';
 import 'package:flutter/material.dart';
@@ -46,4 +46,4 @@ class ActiveGoalsSection extends StatelessWidget {
       }).toList(),
     );
   }
-} */
+}
