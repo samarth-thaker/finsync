@@ -1,4 +1,4 @@
-/* import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:finsync_2/models/transaction_model.dart' as txn_model;
 import 'package:intl/intl.dart';
 
@@ -74,4 +74,3 @@ class TransactionTile extends StatelessWidget {
     );
   }
 }
- */

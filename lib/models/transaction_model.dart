@@ -1,4 +1,4 @@
-/* import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 class Transaction {
   final String id;
@@ -40,4 +40,3 @@ class Transaction {
     };
   }
 }
- */

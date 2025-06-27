@@ -1,4 +1,4 @@
-/* import 'package:firebase_auth/firebase_auth.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import '../models/transaction_model.dart' as txn_model;
 
@@ -31,4 +31,3 @@ class TransactionServices {
         .add(trx.toMap()); // ❗ Don't use `toString()` — use `toMap()`
   }
 }
- */

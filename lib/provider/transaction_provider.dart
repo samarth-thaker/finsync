@@ -1,4 +1,4 @@
-/* import 'package:finsync_2/services/transaction_services.dart';
+import 'package:finsync_2/services/transaction_services.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:finsync_2/models/transaction_model.dart' as txn_model;
@@ -34,4 +34,3 @@ class TransactionProvider with ChangeNotifier {
     notifyListeners();
   }
 }
- */
